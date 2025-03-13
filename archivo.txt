@@ -1,1 +1,2 @@
-Hola Mundo!! :D
+NAME_ARCHIVE: archivo.txt
+PROYECT_NAME: ClaseGit
