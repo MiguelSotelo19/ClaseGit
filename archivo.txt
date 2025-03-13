@@ -1,5 +1,6 @@
 NAME_ARCHIVE: archivo.txt
 PROYECT_NAME: ClaseGit
 
+[------ Sección: Info Trabajador 1 ------]
 NAME: Trabajador 1
 DESCRIPTION: Modificación de archivo.txt
