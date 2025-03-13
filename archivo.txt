@@ -2,3 +2,4 @@ NAME_ARCHIVE: archivo.txt
 PROYECT_NAME: ClaseGit
 
 NAME: Trabajador 1
+DESCRIPTION: Modificación de archivo.txt
