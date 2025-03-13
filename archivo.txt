@@ -1,4 +1,4 @@
 NAME_ARCHIVE: archivo.txt
 PROYECT_NAME: ClaseGit
 
-Trabajador 2
+[------ Sección del trabajador 2 ------]
